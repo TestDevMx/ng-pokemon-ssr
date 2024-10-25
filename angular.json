@@ -11,6 +11,9 @@
           "style": "none",
           "inlineStyle": false,
           "changeDetection": "OnPush"
+        },
+        "@schematics/angular:service": {
+          "skipTests": true
         }
       },
       "root": "",
